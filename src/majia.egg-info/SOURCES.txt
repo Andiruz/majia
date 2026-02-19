@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/majia/__init__.py
+src/majia/cli.py
+src/majia.egg-info/PKG-INFO
+src/majia.egg-info/SOURCES.txt
+src/majia.egg-info/dependency_links.txt
+src/majia.egg-info/entry_points.txt
+src/majia.egg-info/requires.txt
+src/majia.egg-info/top_level.txt

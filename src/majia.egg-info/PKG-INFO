@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: majia
+Version: 0.1.0
+Summary: Simple CLI tool to render Mako/Jinja2 templates
+Author: Andrea Di Ruzza
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: Mako
+
+# mako-renderer
+
+CLI tool to render `.mako` templates to files.
+
+## Install
+
+```bash
+pip install majia
